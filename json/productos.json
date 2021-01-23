@@ -1,0 +1,33 @@
+[{
+    "name" : "Núcleos #1 – Ciencia para la vida",
+    "price": 250,
+    "code" : "0001",
+    "enabled" : true,
+    "coleccion" : {
+        "name" : "Revista Núcleos"
+    }
+} , {
+    "name" : "Núcleos #2 – Agua recurso vital",
+    "price": 250,
+    "code" : "0002",
+    "enabled" : true,
+    "coleccion" : {
+        "name" : "Revista Núcleos"
+    }
+} , {
+    "name" : "Núcleos #3 – Enseñanza de la biología",
+    "price": 250,
+    "code" : "0003",
+    "enabled" : true,
+    "coleccion" : {
+        "name" : "Revista Núcleos"
+    }
+} , {
+    "name" : "Núcleos #4 – Formación para el desarrollo humano",
+    "price": 250,
+    "code" : "0004",
+    "enabled" : true,
+    "coleccion" : {
+        "name" : "Revista Núcleos"
+    }
+}]
