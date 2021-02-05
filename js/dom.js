@@ -62,5 +62,9 @@ data.forEach(function(product){
             numeroRev.textContent = product.name;
             numeroContainer.appendChild(numeroRev);
     }
+<<<<<<< HEAD
 })
 
+=======
+})
+>>>>>>> developer
